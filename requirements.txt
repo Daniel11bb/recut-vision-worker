@@ -1,4 +1,4 @@
 runpod>=1.7
-transformers>=4.46
+transformers>=4.46,<5
 pillow
-numpy
+numpy<2.3
